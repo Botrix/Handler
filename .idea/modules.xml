@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handler.iml" filepath="$PROJECT_DIR$/Handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloadimage/downloadimage.iml" filepath="$PROJECT_DIR$/downloadimage/downloadimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httptest/httptest.iml" filepath="$PROJECT_DIR$/httptest/httptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagedownloader/imagedownloader.iml" filepath="$PROJECT_DIR$/imagedownloader/imagedownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar/progressbar.iml" filepath="$PROJECT_DIR$/progressbar/progressbar.iml" />
+    </modules>
+  </component>
+</project>

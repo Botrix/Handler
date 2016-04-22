@@ -1,0 +1,1 @@
+include ':app', ':Demo', ':progressbar', ':downloadimage', ':httptest', ':imagedownloader', ':asynctask'
